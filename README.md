@@ -25,3 +25,4 @@ This repository is based on the works of:
 - [dwimmer](https://github.com/dwimmer/homebrew-gcc-arm-embedded)
 - [larsimmisch](https://github.com/larsimmisch/homebrew-avr)
 - [NSaitoNmiri](https://github.com/NSaitoNmiri/homebrew-msp430-gcc)
+- [jpommerening](https://github.com/jpommerening/homebrew-avr)
