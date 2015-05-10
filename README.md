@@ -9,6 +9,15 @@
     + binutils 2.23.1
     + avr-libc 1.8.0
 
+# Install
+
+```
+brew tap blanboom/homebrew-mcu-devtools
+brew install gcc-arm-none-eabi    # ARM Cortex-M  
+brew install avr-gcc avr-gdb      # AVR
+brew install --HEAD simulavr      # simulavr
+```
+
 ## Thanks
 
 This repository is based on the works of:
