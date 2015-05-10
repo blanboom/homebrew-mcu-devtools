@@ -1,0 +1,27 @@
+diff --git a/libiberty/configure b/libiberty/configure
+index 8ea54da..7bde9b3 100755
+--- a/libiberty/configure
++++ b/libiberty/configure
+@@ -5507,7 +5507,6 @@ fi
+ 
+ setobjs=
+ CHECK=
+-target_header_dir=
+ if test -n "${with_target_subdir}"; then
+ 
+   # We are being configured as a target library.  AC_REPLACE_FUNCS
+diff --git a/libiberty/configure.ac b/libiberty/configure.ac
+index 4ad88a9..d6180bc 100644
+--- a/libiberty/configure.ac
++++ b/libiberty/configure.ac
+@@ -405,7 +405,6 @@ fi
+ 
+ setobjs=
+ CHECK=
+-target_header_dir=
+ if test -n "${with_target_subdir}"; then
+ 
+   # We are being configured as a target library.  AC_REPLACE_FUNCS
+-- 
+1.8.4.3
+
