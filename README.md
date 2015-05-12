@@ -26,3 +26,4 @@ This repository is based on the works of:
 - [larsimmisch](https://github.com/larsimmisch/homebrew-avr)
 - [NSaitoNmiri](https://github.com/NSaitoNmiri/homebrew-msp430-gcc)
 - [jpommerening](https://github.com/jpommerening/homebrew-avr)
+- [PX4](https://github.com/PX4/homebrew-px4)
