@@ -8,14 +8,13 @@
     + gcc 4.7.2
     + binutils 2.23.1
     + avr-libc 1.8.0
+- kconfig-frontends 3.7.0 (This tool is needed to build [Nuttx](http://nuttx.org) on OS X)
 
 # Install
 
 ```
 brew tap blanboom/homebrew-mcu-devtools
-brew install gcc-arm-none-eabi    # ARM Cortex-M  
-brew install avr-gcc avr-gdb      # AVR
-brew install --HEAD simulavr      # simulavr
+brew install ........
 ```
 
 ## Thanks
